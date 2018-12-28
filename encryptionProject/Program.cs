@@ -13,7 +13,7 @@ namespace encryptionProject
             Console.WriteLine("=== Encryption project started ===");
 
 
-
+            string a = "";
             
             Console.WriteLine("=== Encryption project done ===");
             Console.ReadLine();
