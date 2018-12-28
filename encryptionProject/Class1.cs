@@ -8,5 +8,8 @@ namespace encryptionProject
 {
     class Class1
     {
+        Class1() {
+            
+        }
     }
 }
