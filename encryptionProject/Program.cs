@@ -12,6 +12,7 @@ namespace encryptionProject
         {
             Console.WriteLine("=== Encryption project started ===");
 
+            string hello = "world;";
 
             string a = "";
             string b = "no my change is better";
