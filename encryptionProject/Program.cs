@@ -23,6 +23,7 @@ namespace encryptionProject
             string again = "lkdjfdlkjfdkl";
             
             string notAgain = "uhoh";
+            string shouldnt = "overwrite";
             
             Console.WriteLine("=== Encryption project done ===");
             Console.ReadLine();
