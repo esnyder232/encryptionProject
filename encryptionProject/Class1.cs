@@ -9,7 +9,7 @@ namespace encryptionProject
     class Class1
     {
         Class1() {
-            string changeHere = "";
+            string changeHere = "123";
         }
     }
 }
