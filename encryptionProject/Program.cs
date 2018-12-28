@@ -15,6 +15,7 @@ namespace encryptionProject
 
             string a = "";
             string b = "no my change is better";
+            string b = "my change here";
             
             Console.WriteLine("=== Encryption project done ===");
             Console.ReadLine();
