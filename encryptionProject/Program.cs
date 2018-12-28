@@ -26,6 +26,8 @@ namespace encryptionProject
             string shouldnt = "overwrite";
             
             Console.WriteLine("=== Encryption project done ===");
+
+            string yayaya = "overlord";
             Console.ReadLine();
         }
     }
