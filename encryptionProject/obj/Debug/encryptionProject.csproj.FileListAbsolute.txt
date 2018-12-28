@@ -4,3 +4,6 @@ C:\vs projects\encryptionProject\encryptionProject\bin\Debug\encryptionProject.p
 C:\vs projects\encryptionProject\encryptionProject\obj\Debug\encryptionProject.csprojResolveAssemblyReference.cache
 C:\vs projects\encryptionProject\encryptionProject\obj\Debug\encryptionProject.exe
 C:\vs projects\encryptionProject\encryptionProject\obj\Debug\encryptionProject.pdb
+C:\vs_projects\encryptionProject\encryptionProject\bin\Debug\encryptionProject.exe.config
+C:\vs_projects\encryptionProject\encryptionProject\obj\Debug\encryptionProject.exe
+C:\vs_projects\encryptionProject\encryptionProject\obj\Debug\encryptionProject.pdb
